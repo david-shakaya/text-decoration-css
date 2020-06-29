@@ -2,6 +2,10 @@ h1 {
     background-color: rgba(20%, 20%, 20%, 10%);
     text-align: center;
 }
+.post {
+    background-color: rgba(20%, 20%, 20%, 10%);
+}
+
 .underline {
     text-decoration: underline;
 }
@@ -13,4 +17,15 @@ h1 {
 }
 .overline {
     text-decoration: overline;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
 }
