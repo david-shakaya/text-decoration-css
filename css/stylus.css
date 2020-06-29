@@ -1,7 +1,16 @@
 h1 {
     background-color: rgba(20%, 20%, 20%, 10%);
-    
+    text-align: center;
 }
 .underline {
     text-decoration: underline;
+}
+.none {
+    text-decoration: none;
+}
+.through {
+    text-decoration: line-through;
+}
+.overline {
+    text-decoration: overline;
 }
