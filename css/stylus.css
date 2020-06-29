@@ -1,5 +1,8 @@
-h1 {
+h1, h2 {
     background-color: rgba(20%, 20%, 20%, 10%);
+    text-align: center;
+}
+ul, p {
     text-align: center;
 }
 .post {
@@ -28,4 +31,11 @@ h1 {
 
 .capitalize {
     text-transform: capitalize;
+}
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
 }
